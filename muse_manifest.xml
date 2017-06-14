@@ -1,20 +1,20 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.gg.com" resolutions="1x" timestamp="1497108021750">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.gg.com" resolutions="1x" timestamp="1497461896821">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3918367927" ref="article-detail:cart:checkout:articles:contact-us:index:menu-detail:about-us:menu:product-detail:gallery:article-detail-2:checkout-2:product-detail-2:gallery-2:menu-detail-2:menu-2:news:recipes:events"/>
-    <file name="nomq_preview_master_a-master.css" crc="4028251642" ref="article-detail:cart:checkout:articles:contact-us:index:menu-detail:about-us:menu:product-detail:gallery:article-detail-2:checkout-2:product-detail-2:gallery-2:menu-detail-2:menu-2:news:recipes:events"/>
+    <file name="master_a-master.css" crc="190904533" ref="article-detail:cart:checkout:articles:contact-us:index:menu-detail:about-us:menu:product-detail:gallery:article-detail-2:checkout-2:product-detail-2:gallery-2:menu-detail-2:menu-2:news:recipes:events"/>
+    <file name="nomq_preview_master_a-master.css" crc="4248541292" ref="article-detail:cart:checkout:articles:contact-us:index:menu-detail:about-us:menu:product-detail:gallery:article-detail-2:checkout-2:product-detail-2:gallery-2:menu-detail-2:menu-2:news:recipes:events"/>
     <file name="article-detail.css" crc="4162735702" ref="article-detail"/>
     <file name="nomq_article-detail.css" crc="225345081" ref="article-detail"/>
-    <file name="cart.css" crc="3774721141" ref="cart"/>
-    <file name="nomq_cart.css" crc="381547585" ref="cart"/>
+    <file name="cart.css" crc="4060190217" ref="cart"/>
+    <file name="nomq_cart.css" crc="4043304373" ref="cart"/>
     <file name="checkout.css" crc="156276737" ref="checkout"/>
     <file name="nomq_checkout.css" crc="4205324840" ref="checkout"/>
     <file name="articles.css" crc="4070926186" ref="articles"/>
     <file name="nomq_articles.css" crc="160839620" ref="articles"/>
     <file name="contact-us.css" crc="496389758" ref="contact-us"/>
     <file name="nomq_contact-us.css" crc="3880653009" ref="contact-us"/>
-    <file name="index.css" crc="3876510546" ref="index"/>
-    <file name="nomq_index.css" crc="4198759924" ref="index"/>
+    <file name="index.css" crc="4190682181" ref="index"/>
+    <file name="nomq_index.css" crc="170036336" ref="index"/>
     <file name="menu-detail.css" crc="144231816" ref="menu-detail"/>
     <file name="nomq_menu-detail.css" crc="304824975" ref="menu-detail"/>
     <file name="about-us.css" crc="143547925" ref="about-us"/>
@@ -248,8 +248,10 @@
     <file name="blueberry-buckle-horiz-800-u34680-fr.jpg" crc="520826748" ref="index"/>
     <file name="2016-12-08-pistachio-cookies-6-u34477-fr.jpg" crc="416042980" ref="index"/>
     <file name="blackberry-muffins-horiz-a-1600 (1)-u34480-fr.jpg" crc="421782962" ref="index"/>
+    <file name="bryan_cranston_0095.jpg" crc="4273470844" ref="index"/>
+    <file name="66c297f1dcd085d2304f63c5ed612c0a.jpg" crc="29168357" ref="index"/>
   </folder>
-  <file name="index.html" crc="480015676" seo="true" mt="1497107937949" redirect="true"/>
+  <file name="index.html" crc="3830232375" seo="true" mt="1497461852986" redirect="true"/>
   <file name="about-us.html" crc="4077864431" seo="true" mt="1497107876401" redirect="true"/>
   <file name="gallery.html" crc="3840869032" seo="true" mt="1497107876401" redirect="true"/>
   <file name="menu.html" crc="525181259" seo="true" mt="1497107876401" redirect="true"/>
@@ -258,7 +260,7 @@
   <file name="articles.html" crc="42244953" seo="true" mt="1497107876401" redirect="true"/>
   <file name="menu-detail.html" crc="3814134488" seo="true" mt="1497107876401" redirect="true"/>
   <file name="product-detail.html" crc="4257424436" seo="true" mt="1497107876401" redirect="true"/>
-  <file name="cart.html" crc="229072970" seo="true" mt="1497107876401" redirect="true"/>
+  <file name="cart.html" crc="4225462922" seo="true" mt="1497460959342" redirect="true"/>
   <file name="checkout.html" crc="6192446" seo="true" mt="1497107876401" redirect="true"/>
   <file name="menu-detail-2.html" crc="219106419" seo="true" mt="1497107876401" redirect="true"/>
   <file name="product-detail-2.html" crc="3979768888" seo="true" mt="1497107876401" redirect="true"/>
